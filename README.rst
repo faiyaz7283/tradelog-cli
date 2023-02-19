@@ -1,3 +1,3 @@
 ============
-Tradelog REPL
+Tradelog CLI
 ============

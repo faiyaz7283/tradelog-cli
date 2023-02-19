@@ -1,4 +1,4 @@
-name: repl-py311
+name: cli-py311
 channels:
   - defaults
 dependencies:
